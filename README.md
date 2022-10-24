@@ -29,7 +29,7 @@ print("variabel a=",a)
 print("variabel b=",b)
 ```
 Outputnya akan seperti ini
-![gambar3](img/Fardhilan3.PNG)
+![verz (3)](https://user-images.githubusercontent.com/115523263/197544844-6b26b469-cb3f-40f9-91e0-9ba976847bac.PNG)
 
 # Penjumlahan Nilai variabel
 Dibawah ini adalah contoh penggunaan penjumlahan dari kedua variabel
@@ -37,7 +37,7 @@ Dibawah ini adalah contoh penggunaan penjumlahan dari kedua variabel
 print("hasil penjumlahan a+b=",a+b)
 ```
 Maka Output nya akan seperti ini
-![gambar4](img/Fardhilan4.PNG)
+![verz (4)](https://user-images.githubusercontent.com/115523263/197545028-49ab2985-c03c-4f46-b506-53c1706a13c8.PNG)
 
 ## Latihan 3
 # Menginput nilai Variabel dengan IDLE Python
@@ -53,7 +53,7 @@ print("Variabel a=",a)
 print("Variabel b=",b)
 ```
 Outputnya akan seperti ini
-![gambar5](img/Fardhilan5.PNG)
+![verz (5)](https://user-images.githubusercontent.com/115523263/197545236-89fb36ac-7159-48e6-bd5e-edb1161be84f.PNG)
 
 # Penggabungan kedua variabel
 Penggunaan IDLE python untuk penggabungan nilai kedua variabel dengan cara String Format
@@ -61,7 +61,7 @@ Penggunaan IDLE python untuk penggabungan nilai kedua variabel dengan cara Strin
 print("Hasil Penggabungan {1}+{0}=%s".format(a,b) %(a+b))
 ```
 Outputnya akan seperti ini
-![gambar6](img/Fardhilan6.PNG)
+![verz (6)](https://user-images.githubusercontent.com/115523263/197545373-0cc089e2-fc16-42ab-a3ad-d29a79e4813e.PNG)
 
 # Konversi kedua nilai variabel
 Penggunaan python untuk mengkonversi nilai kedua variabel dengan 
@@ -72,4 +72,5 @@ print("Hasil Penjumlahan {1}+{0}=%d").format(a,b) %(a+b))
 print("Hasil Pembagian {1}+{0}=%d").format(a,b) %(a/b))
 ```
 Outputnya akan seperti ini 
-![gambar7](img/Fardhilan7.PNG)
+![verz (7)](https://user-images.githubusercontent.com/115523263/197545470-40ac913b-16fc-4ab3-828f-609b5a5e2570.PNG)
+
