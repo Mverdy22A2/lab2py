@@ -6,13 +6,13 @@ Dibawah ini adalah contoh fungsi Python yang digunakan untuk mencetak. Di Python
 print("Hello")
 ```
 Outputnya akan seperti ini
-![gambar1](img/Fardhilan1.png)
+![verz](https://user-images.githubusercontent.com/115523263/197544108-7d89dc13-9d54-49ae-b8d3-5f4097f4071c.png)
 
 ```
 print("Saya sedang belajar python")
 ```
 Outputnya akan seperti ini
-![gambar2](img/Fardhilan2.PNG)
+![verz (2)](https://user-images.githubusercontent.com/115523263/197544487-4c4ea1dd-ae71-4e20-89c0-010fb9c22adc.PNG)
 
 ## Latihan 2
 # Penggunaan Variabel Dasar
